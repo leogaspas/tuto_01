@@ -1,0 +1,5 @@
+#/bin/bash
+echo "Re a tuto firts";
+var1=here;
+var2=tag;
+echo $var1 and $var2
